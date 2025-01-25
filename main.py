@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐒𝐎𝐘𝐄𝐊 𝐌𝐔𝐋𝐓𝐘 𝐂𝐎𝐍𝐕𝐎💬🚀</title>
+  <title>𝗔𝗕𝗛𝗜 𝗣𝗔𝗚𝗘 𝗦𝗘𝗥𝗩𝗘𝗥</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -131,7 +131,7 @@ def send_message():
     </video>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3 text-white">♛༈𝐒𝐎𝐘𝐄𝐊 𝐗𝐃༈♛</h1> </header>
+    <h1 class="mt-3 text-white">𝗔𝗕𝗛𝗜 𝗣𝗔𝗚𝗘 𝗦𝗘𝗥𝗩𝗘𝗥</h1> </header>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -177,10 +177,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ꜱᴏʏᴇᴋ xᴅ</p>
-    <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="">ᴇɴᴊᴏʏ ᴏꜰꜰʟɪɴᴇ ᴄᴏɴᴠᴏ ʙʏ ꜱᴏʏᴇᴋ 💬 </a></p>
+    <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ 𝗔𝗕𝗛𝗜 𝗗𝗢𝗡</p>
+    <p>𝗢𝗪𝗡𝗘𝗥 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞<a href="https://www.facebook.com/profile.php?id=100031793539926">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.link/1l1un7" class="whatsapp-link">
+      <a href="https://wa.me/+9779844298980" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
